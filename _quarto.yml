@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SamuelM.Hickey1"
+  title: "SamuelM.Hickey"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     css: styles.css
     toc: true
 
