@@ -3,16 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "SamuelM.Hickey"
+  title: "Samuel M. Hickey"
   navbar:
     left:
       - href: index.qmd
         text: Home
+        href: Research.qmd
+        text: Research
+        href: https://github.com/samhickey14/SamuelM.Hickey
+        text: About
       - about.qmd
 
 format:
   html:
-    theme: cerulean
+    theme: vapor
     css: styles.css
     toc: true
 
