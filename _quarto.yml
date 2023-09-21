@@ -8,10 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-        href: Research.qmd
+      - href: Research.qmd
         text: Research
-        href: https://github.com/samhickey14/SamuelM.Hickey
-        text: About
       - about.qmd
 
 format:
