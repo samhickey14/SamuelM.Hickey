@@ -1,11 +1,13 @@
 ---
-title: "SamuelM.Hickey"
+title: "Samuel M. Hickey"
 ---
 
-This is a Quarto website.
+Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website is a work in progress so please be patient.
+
+If you would like to connect, please reach out via email: samuelh@umd.edu
 
 ```{r}
-1 + 1
+12 * 12
 ```
